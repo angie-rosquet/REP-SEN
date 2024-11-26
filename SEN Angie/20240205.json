@@ -1,0 +1,110 @@
+{
+    "sen_info": {
+        "main_info": {
+            "fecha": "05-02-2024",
+            "dia": "lunes",
+            "url": "http://www.cubadebate.cu/noticias/2024/02/05/une-pronostica-afectacion-de-945-mw-durante-pico-nocturno-de-este-lunes/"
+        },
+        "estimacion": {
+            "horario": "pico",
+            "disponibilidad": 1975,
+            "demanda_max": 2850,
+            "deficit": 875,
+            "pronostico": {
+                "afectacion": 945
+            }
+        },
+        "info_horarios": {
+            "mañana": {
+                "disponibilidad": 1750,
+                "demanda": 1720,
+                "totalidad": false
+            },
+            "mediodia": {
+                "pronostico": {
+                    "afectacion": 945
+                }
+            }
+        },
+        "termoelectricas": {
+            "lim_gen_term": 283,
+            "fuera": {
+                "averias": [
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Santa Cruz"
+                    },
+                    {
+                        "nombre": "Unidad 6",
+                        "CTE": "Diez de Octubre"
+                    },
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Felton"
+                    },
+                    {
+                        "nombre": "Unidad 5",
+                        "CTE": "Renté"
+                    },
+                    {
+                        "nombre": "Unidad 6",
+                        "CTE": "Renté"
+                    }
+                ],
+                "mantenimiento":[
+                    {
+                        "nombre": "Unidad 8",
+                        "CTE": "Mariel"
+                    },
+                    {
+                        "nombre": "Unidad 4",
+                        "CTE": "Cienfuegos"
+                    }
+                ]
+            }
+        },
+        "centr_gen_distr": {
+            "no_servicio": [
+                {
+                    "cantidad": 0,
+                    "razon": "",
+                    "mw_afectados": 0
+                }
+            ]
+        },
+        "pico": {
+            "estimacion": [
+                {
+                    "desc": "entrada de las unidad 2 de la termoeléctrica Santa Cruz",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 60
+                },
+                {
+                    "desc": "entrada de la 5 de la Renté",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 75
+                },
+                {
+                    "desc": "entrada de cuatro motores en la patana de Melones",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 65
+                },
+                {
+                    "desc": "entrada de motores de generación distribuida",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 25
+                }
+            ]
+        },
+        "max_afect_dia": {
+            "cantidad_mw": 1109,
+            "hora": "18:30",
+            "desc": "coincidiendo con la hora pico"
+        },
+        "dia_anterior": {
+            "desc": "déficit de capacidad de generación",
+            "horas": 14,
+            "hora_rest": "21:49"
+        }
+    }
+}

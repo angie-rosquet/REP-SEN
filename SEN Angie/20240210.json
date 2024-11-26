@@ -1,0 +1,89 @@
+{
+    "sen_info": {
+        "main_info": {
+            "fecha": "10-02-2024",
+            "dia": "sábado",
+            "url": "http://www.cubadebate.cu/noticias/2024/02/10/une-pronostica-afectacion-de-755-mw-durante-pico-nocturno-de-este-viernes/"
+        },
+        "estimacion": {
+            "horario": "pico",
+            "disponibilidad": 2115,
+            "demanda_max": 2800,
+            "deficit": 685,
+            "pronostico": {
+                "afectacion": 755
+            }
+        },
+        "info_horarios": {
+            "mañana": {
+                "disponibilidad": 1950,
+                "demanda": 1550,
+                "totalidad": true
+            },
+            "mediodia": {
+                "pronostico": {
+                    "afectacion": 200
+                }
+            }
+        },
+        "termoelectricas": {
+            "lim_gen_term": 486,
+            "fuera": {
+                "averias": [
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Felton"
+                    }
+                ],
+                "mantenimiento":[
+                    {
+                        "nombre": "Unidad 8",
+                        "CTE": "Mariel"
+                    },
+                    {
+                        "nombre": "Unidad 4",
+                        "CTE": "Cienfuegos"
+                    }
+                ]
+            }
+        },
+        "centr_gen_distr": {
+            "no_servicio": [
+                {
+                    "cantidad": 0,
+                    "razon": "",
+                    "mw_afectados": 0
+                }
+            ]
+        },
+        "pico": {
+            "estimacion": [
+                {
+                    "desc": "entrada de cuatro motores en la patana de Melones",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 65
+                },
+                {
+                    "desc": "completamiento de la unidad de la termoeléctrica Matanzas",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 70
+                },
+                {
+                    "desc": "entrada de motores de generación distribuida",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 30
+                }
+            ]
+        },
+        "max_afect_dia": {
+            "cantidad_mw": 0,
+            "hora": "",
+            "desc": ""
+        },
+        "dia_anterior": {
+            "desc": "déficit de capacidad de generación",
+            "horas": 8,
+            "hora_rest": "20:21"
+        }
+    }
+}

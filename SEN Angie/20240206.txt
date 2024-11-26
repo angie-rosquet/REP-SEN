@@ -1,0 +1,13 @@
+En el día de ayer, 5 de febrero, se afectó el servicio por déficit de capacidad de generación desde las 06:51 horas de la mañana hasta las 07:40 horas; desde las 08:43 horas hasta las 13:00 horas y luego, desde las 15:00 horas hasta las 21:09 horas de la noche.
+
+La máxima afectación en el dia fue de 954 MW a las 18:30 horas, no coincidiendo con la hora pico.
+
+La disponibilidad del Sistema Eléctrico Nacional (SEN) a las 07:00 horas de hoy fue de 1880 MW y la demanda 1580 MW, con todo el SEN con servicio. Se estima una afectación en el horario de la media de 300 MW.
+
+Se encuentran fuera de servicio por avería la unidad 2 de la CTE Santa Cruz y la unidad 2 de la CTE de Felton. Se someten a mantenimiento las unidades: 8 de la CTE Mariel; 4 de la CTE Cienfuegos, y 6 de la CTE Renté.
+
+Las limitaciones en la generación térmica, 352 MW.
+
+Para el pico se estima la entrada de cuatro motores en la patana de Melones con 65 MW y la entrada de motores de Generación Distribuida, que están a la espera de mantenimiento y se autoriza su uso con 20 MW.
+
+Con este pronóstico, se prevé para la hora pico una disponibilidad de 1965 MW y una demanda máxima de 2750 MW, para un déficit de 785 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 855 MW en este horario.

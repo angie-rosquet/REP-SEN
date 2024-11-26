@@ -1,0 +1,102 @@
+{
+    "sen_info": {
+        "main_info": {
+            "fecha": "01-02-2024",
+            "dia": "jueves",
+            "url": "http://www.cubadebate.cu/noticias/2024/02/01/une-informa-sobre-afectaciones-en-el-horario-pico-para-esta-jornada/"
+        },
+        "estimacion": {
+            "horario": "pico",
+            "disponibilidad": 2192,
+            "demanda_max": 2700,
+            "deficit": 508,
+            "pronostico": {
+                "afectacion": 578
+            }
+        },
+        "info_horarios": {
+            "mañana": {
+                "disponibilidad": 1934,
+                "demanda": 1770,
+                "totalidad": true
+            },
+            "mediodia": {
+                "pronostico": {
+                    "afectacion": 150
+                }
+            }
+        },
+        "termoelectricas": {
+            "lim_gen_term": 331,
+            "fuera": {
+                "averias": [
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Santa Cruz"
+                    },
+                    {
+                        "nombre": "Unidad 3",
+                        "CTE": "Santa Cruz"
+                    },
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Felton"
+                    },
+                    {
+                        "nombre": "Unidad 5",
+                        "CTE": "Rente"
+                    }
+                ],
+                "mantenimiento":[
+                    {
+                        "nombre": "Unidad 8",
+                        "CTE": "Mariel"
+                    }
+                ]
+            }
+        },
+        "centr_gen_distr": {
+            "no_servicio": [
+                {
+                    "cantidad": 0,
+                    "razon": "",
+                    "mw_afectados": 0
+                }
+            ]
+        },
+        "pico": {
+            "estimacion": [
+                {
+                    "desc": "entrada de la unidad 2 de la CTE Santa Cruz",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 70
+                },
+                {
+                    "desc": "entrada de la unidad 3 de la CTE Santa Cruz",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 60
+                },
+                {
+                    "desc": "6 motores en la patana de Melones",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 90
+                },
+                {
+                    "desc": "motores de Generación Distribuida",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 38
+                }
+            ]
+        },
+        "max_afect_dia": {
+            "cantidad_mw": 603,
+            "hora": "18:30",
+            "desc": "coincidiendo con la hora pico"
+        },
+        "dia_anterior": {
+            "desc": "déficit de capacidad de generación",
+            "horas": 4.31,
+            "hora_rest": "20:08"
+        }
+    }
+}

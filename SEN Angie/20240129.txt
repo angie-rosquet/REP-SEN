@@ -1,0 +1,13 @@
+En el día de hoy se afectó el servicio por déficit de capacidad de generación desde las 07:32 horas de la mañana hasta las 21:32 horas de la noche (total 14 horas).
+
+La máxima afectación en el dia fue de 975 MW a las 18:30 horas, coincidiendo con la hora pico.
+
+La disponibilidad del SEN a las 07:00 horas es de 2055 MW y la demanda 1900 MW, con todo el sistema con servicio. Se estima una afectación en el horario de la media de 350 MW.
+
+Se encuentran fuera de servicio por avería la unidad 5 de la CTE Nuevitas y la unidad 2 de la CTE de Felton. Se encuentra en mantenimiento la unidad 8 de la CTE Mariel.
+
+Las limitaciones en la generación térmica, 437 MW.
+
+Para el pico se estima la entrada de la entrada de la unidad 4 de Energas Varadero con 44 MW y la entrada de motores de Generación Distribuida que están a la espera de mantenimiento y se autoriza su uso con 44 MW.
+
+Con este pronóstico, se estima para la hora pico una disponibilidad de 2129 MW y una demanda máxima de 3050 MW, para un déficit de 921 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 991 MW en este horario.

@@ -1,0 +1,88 @@
+{
+    "sen_info": {
+        "main_info": {
+            "fecha": "11-02-2024",
+            "dia": "domingo",
+            "url": "http://www.cubadebate.cu/noticias/2024/02/11/la-union-electrica-pronostica-una-afectacion-de-715-mw-para-el-horario-pico-nocturno/"
+        },
+        "estimacion": {
+            "horario": "pico",
+            "disponibilidad": 2005,
+            "demanda_max": 2650,
+            "deficit": 645,
+            "pronostico": {
+                "afectacion": 715
+            }
+        },
+        "info_horarios": {
+            "mañana": {
+                "disponibilidad": 1910,
+                "demanda": 1790,
+                "totalidad": true
+            },
+            "mediodia": {
+                "pronostico": {
+                    "afectacion": 150
+                }
+            }
+        },
+        "termoelectricas": {
+            "lim_gen_term": 389,
+            "fuera": {
+                "averias": [
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Felton"
+                    }
+                ],
+                "mantenimiento":[
+                    {
+                        "nombre": "Unidad 8",
+                        "CTE": "Mariel"
+                    },
+                    {
+                        "nombre": "Unidad 3",
+                        "CTE": "Santa Cruz"
+                    },
+                    {
+                        "nombre": "Unidad 4",
+                        "CTE": "Cienfuegos"
+                    }
+                ]
+            }
+        },
+        "centr_gen_distr": {
+            "no_servicio": [
+                {
+                    "cantidad": 0,
+                    "razon": "",
+                    "mw_afectados": 0
+                }
+            ]
+        },
+        "pico": {
+            "estimacion": [
+                {
+                    "desc": "entrada de cuatro motores en la patana de Melones",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 65
+                },
+                {
+                    "desc": "entrada de motores de Generación Distribuida",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 30
+                }
+            ]
+        },
+        "max_afect_dia": {
+            "cantidad_mw": 404,
+            "hora": "18:40",
+            "desc": "coincidiendo con el horario pico"
+        },
+        "dia_anterior": {
+            "desc": "déficit de capacidad de generación",
+            "horas": 4,
+            "hora_rest": "20:21"
+        }
+    }
+}

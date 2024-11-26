@@ -1,0 +1,14 @@
+En el día de ayer se afectó el servicio por déficit de capacidad de generación desde las 15:37 horas hasta las 20:08 horas de la noche (04:31 horas).
+
+La máxima afectación en el dia fue de 603 MW a las 18:30 horas, coincidiendo con la hora pico.
+
+La disponibilidad del SEN a las 07:00 horas es de 1934 MW y la demanda 1770 MW, con todo el sistema con servicio. Se estima una afectación en el horario de la media de 150 MW.
+
+Se encuentran fuera de servicio por avería las unidades 2 y 3 de la CTE Santa Cruz, la unidad 2 de la CTE de Felton y la unidad 5 de la CTE Rente. Se encuentra en mantenimiento la unidad 8 de la CTE Mariel.
+
+Las limitaciones en la generación térmica, 331 MW.
+
+Para el pico se estima la entrada de las unidades 2 y 3 de la CTE Santa Cruz con 70 MW y 60 MW respectivamente, la entrada de 6 motores en la patana de Melones con 90 MW y la entrada de motores de Generación Distribuida que están a la espera de mantenimiento y se autoriza su uso con 38 MW.
+
+Con este pronóstico, se estima para la hora pico una disponibilidad de 2192 MW y una demanda máxima de 2700 MW, para un déficit de 508 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 578 MW en este horario.
+http://www.cubadebate.cu/noticias/2024/02/01/une-informa-sobre-afectaciones-en-el-horario-pico-para-esta-jornada/

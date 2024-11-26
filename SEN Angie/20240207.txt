@@ -1,0 +1,13 @@
+La disponibilidad del SEN a las 07:00 horas es de 1760 MW y la demanda 1620 MW, con todo el SEN con servicio. Se estima una afectación en el horario de la media de 300 MW.
+
+Se encuentran fuera de servicio por avería la unidad 6 de la CTE Nuevitas, la unidades 2 y 3 de la CTE Santa Cruz y la unidad 2 de la CTE de Felton. Se encuentra en mantenimiento la unidad 8 de la CTE Mariel, la unidad 4 de la CTE Cienfuegos y la unidad 6 de la CTE Rente.
+
+Las limitaciones en la generación térmica, 267 MW.
+
+Para el pico se estima la entrada de 4 motores en la patana de Melones con 65 MW, la entrada de la unidad 2 de la CTE Santa Cruz con 65 MW y la entrada de motores de Generación Distribuida que están a la espera de mantenimiento y se autoriza su uso con 20 MW.
+
+Con este pronóstico, se estima para la hora pico una disponibilidad de 1910 MW y una demanda máxima de 2700 MW, para un déficit de 790 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 860 MW en este horario.
+
+En el día de ayer se afectó el servicio por déficit de capacidad de generación desde las 16:01 horas de la tarde hasta las 20:33 horas de la noche (04:32 horas).
+
+La máxima afectación en el día fue de 698 MW a las 18:30 horas, coincidiendo con la hora pico.

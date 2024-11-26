@@ -1,0 +1,98 @@
+{
+    "sen_info": {
+        "main_info": {
+            "fecha": "02-02-2024",
+            "dia": "viernes",
+            "url": "http://www.cubadebate.cu/noticias/2024/02/02/la-union-electrica-estima-una-afectacion-de-562-mw-para-el-horario-pico-nocturno/"
+        },
+        "estimacion": {
+            "horario": "pico nocturno",
+            "disponibilidad": 2208,
+            "demanda_max": 2700,
+            "deficit": 492,
+            "pronostico": {
+                "afectacion": 562
+            }
+        },
+        "info_horarios": {
+            "mañana": {
+                "disponibilidad": 1870,
+                "demanda": 1750,
+                "totalidad": true
+            },
+            "mediodia": {
+                "pronostico": {
+                    "afectacion": 130
+                }
+            }
+        },
+        "termoelectricas": {
+            "lim_gen_term": 413,
+            "fuera": {
+                "averias": [
+                    {
+                        "nombre": "Unidad 6",
+                        "CTE": "Máximo Gómez"
+                    },
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Felton"
+                    },
+                    {
+                        "nombre": "Unidad 5",
+                        "CTE": "Renté"
+                    }
+                ],
+                "mantenimiento":[
+                    {
+                        "nombre": "Unidad 8",
+                        "CTE": "Mariel"
+                    }
+                ]
+            }
+        },
+        "centr_gen_distr": {
+            "no_servicio": [
+                {
+                    "cantidad": 0,
+                    "razon": "",
+                    "mw_afectados": 0
+                }
+            ]
+        },
+        "pico": {
+            "estimacion": [
+                {
+                    "desc": "entrada de seis motores en la patana de Melones",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 90
+                },
+                {
+                    "desc": "entrada de motores de Generación Distribuida",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 38
+                },
+                {
+                    "desc": " entrada de la unidad 6 de la CTE Máximo Gómez",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 100
+                },
+                {
+                    "desc": "entrada de la unidad 5 de Renté",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 70
+                }
+            ]
+        },
+        "max_afect_dia": {
+            "cantidad_mw": 603,
+            "hora": "18:30",
+            "desc": "coincidiendo con la hora pico"
+        },
+        "dia_anterior": {
+            "desc": "déficit de capacidad de generación",
+            "horas": 4.15,
+            "hora_rest": "20:14"
+        }
+    }
+}

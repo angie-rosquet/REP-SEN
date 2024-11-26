@@ -1,0 +1,13 @@
+En el día de ayer se afectó el servicio por déficit de capacidad de generación desde las 10:14 horas hasta las 13:11 horas con un máximo de 222 MW y desde las 15:17 horas hasta las 20:05 horas de la noche.
+
+La máxima afectación en el dia fue de 555 MW a las 18:30 horas, coincidiendo con la hora pico.
+
+La disponibilidad del Sistema Eléctrico Nacional a las 07:00 horas fue de 2080 MW y la demanda 1780 MW, con todo el sistema con servicio. Se estima una afectación en el horario de la media de 250 MW.
+
+Se encuentran fuera de servicio por avería la unidad 2 de la CTE de Felton. Se encuentra en mantenimiento la unidad 8 de la CTE Mariel y la unidad 6 de la CTE Rente.
+
+Las limitaciones en la generación térmica, 440 MW.
+
+Para el pico se estima la entrada de la unidad 6 de la CTE Rente con 65 MW y la entrada de motores de Generación Distribuida que están a la espera de mantenimiento y se autoriza su uso con 35 MW.
+
+Con este pronóstico, se estima para la hora pico una disponibilidad de 2180 MW y una demanda máxima de 2700 MW, para un déficit de 520 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 590 MW en este horario.

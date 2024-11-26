@@ -1,0 +1,101 @@
+{
+    "sen_info": {
+        "main_info": {
+            "fecha": "09-02-2024",
+            "dia": "viernes",
+            "url": "http://www.cubadebate.cu/noticias/2024/02/09/situacion-del-sen-para-este-viernes-9-de-febrero/"
+        },
+        "estimacion": {
+            "horario": "pico",
+            "disponibilidad": 1945,
+            "demanda_max": 2800,
+            "deficit": 855,
+            "pronostico": {
+                "afectacion": 925
+            }
+        },
+        "info_horarios": {
+            "mañana": {
+                "disponibilidad": 1780,
+                "demanda": 1650,
+                "totalidad": true
+            },
+            "mediodia": {
+                "pronostico": {
+                    "afectacion": 350
+                }
+            }
+        },
+        "termoelectricas": {
+            "lim_gen_term": 360,
+            "fuera": {
+                "averias": [
+                    {
+                        "nombre": "Unidad 6",
+                        "CTE": "Mariel"
+                    },
+                    {
+                        "nombre": "Unidad 3",
+                        "CTE": "Santa Cruz"
+                    },
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Felton"
+                    }
+                ],
+                "mantenimiento":[
+                    {
+                        "nombre": "Unidad 8",
+                        "CTE": "Mariel"
+                    },
+                    {
+                        "nombre": "Unidad 4",
+                        "CTE": "Cienfuegos"
+                    },
+                    {
+                        "nombre": "Unidad 6",
+                        "CTE": "Rente"
+                    }
+                ]
+            }
+        },
+        "centr_gen_distr": {
+            "no_servicio": [
+                {
+                    "cantidad": 0,
+                    "razon": "",
+                    "mw_afectados": 0
+                }
+            ]
+        },
+        "pico": {
+            "estimacion": [
+                {
+                    "desc": "entrada de 4 motores en la patana de Melones",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 65
+                },
+                {
+                    "desc": "entrada de la unidad 6 de la CTE Rente",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 70
+                },
+                {
+                    "desc": "entrada de motores de Generación Distribuida",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 30
+                }
+            ]
+        },
+        "max_afect_dia": {
+            "cantidad_mw": 892,
+            "hora": "18:40",
+            "desc": "coincidiendo con la hora pico"
+        },
+        "dia_anterior": {
+            "desc": "déficit de capacidad de generación",
+            "horas": 9,
+            "hora_rest": "20:42"
+        }
+    }
+}

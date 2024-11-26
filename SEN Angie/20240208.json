@@ -1,0 +1,106 @@
+{
+    "sen_info": {
+        "main_info": {
+            "fecha": "08-02-2024",
+            "dia": "jueves",
+            "url": "http://www.cubadebate.cu/noticias/2024/02/08/union-electrica-informa-afectacion-de-750-mw-para-el-horario-pico-nocturno/"
+        },
+        "estimacion": {
+            "horario": "pico",
+            "disponibilidad": 2070,
+            "demanda_max": 2750,
+            "deficit": 680,
+            "pronostico": {
+                "afectacion": 750
+            }
+        },
+        "info_horarios": {
+            "mañana": {
+                "disponibilidad": 1840,
+                "demanda": 1620,
+                "totalidad": true
+            },
+            "mediodia": {
+                "pronostico": {
+                    "afectacion": 250
+                }
+            }
+        },
+        "termoelectricas": {
+            "lim_gen_term": 267,
+            "fuera": {
+                "averias": [
+                    {
+                        "nombre": "Unidad 6",
+                        "CTE": "Nuevitas"
+                    },
+                    {
+                        "nombre": "Unidad 3",
+                        "CTE": "Santa Cruz"
+                    },
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Felton"
+                    }
+                ],
+                "mantenimiento":[
+                    {
+                        "nombre": "Unidad 8",
+                        "CTE": "Mariel"
+                    },
+                    {
+                        "nombre": "Unidad 4",
+                        "CTE": "Cienfuegos"
+                    },
+                    {
+                        "nombre": "Unidad 6",
+                        "CTE": "Rente"
+                    }
+                ]
+            }
+        },
+        "centr_gen_distr": {
+            "no_servicio": [
+                {
+                    "cantidad": 0,
+                    "razon": "",
+                    "mw_afectados": 0
+                }
+            ]
+        },
+        "pico": {
+            "estimacion": [
+                {
+                    "desc": "entrada de cuatro motores en la patana de Melones",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 65
+                },
+                {
+                    "desc": "entrada de la unidad 3 de la CTE Santa Cruz",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 50
+                },
+                {
+                    "desc": "entrada de la unidad 6 de la CTE Nuevitas",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 85
+                },
+                {
+                    "desc": "entrada de motores de Generación Distribuida ",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 30
+                }
+            ]
+        },
+        "max_afect_dia": {
+            "cantidad_mw": 847,
+            "hora": "18:30",
+            "desc": "coincidiendo con la hora pico"
+        },
+        "dia_anterior": {
+            "desc": "éficit de capacidad de generación",
+            "horas": 7,
+            "hora_rest": "20:29"
+        }
+    }
+}

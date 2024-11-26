@@ -1,0 +1,93 @@
+{
+    "sen_info": {
+        "main_info": {
+            "fecha": "06-02-2024",
+            "dia": "martes",
+            "url": "http://www.cubadebate.cu/noticias/2024/02/06/une-preven-afectacion-de-855-mw-durante-horario-pico-nocturno-de-este-martes/"
+        },
+        "estimacion": {
+            "horario": "pico",
+            "disponibilidad": 1965,
+            "demanda_max": 2750,
+            "deficit": 785,
+            "pronostico": {
+                "afectacion": 855
+            }
+        },
+        "info_horarios": {
+            "mañana": {
+                "disponibilidad": 1880,
+                "demanda": 1580,
+                "totalidad": true
+            },
+            "mediodia": {
+                "pronostico": {
+                    "afectacion": 300
+                }
+            }
+        },
+        "termoelectricas": {
+            "_comentario": "Esto quiere decir: Limitaciones en la generacion termica",
+            "lim_gen_term": 352,
+            "fuera": {
+                "averias": [
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Santa Cruz"
+                    },
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Felton"
+                    }
+                ],
+                "mantenimiento":[
+                    {
+                        "nombre": "Unidad 8",
+                        "CTE": "Mariel"
+                    },
+                    {
+                        "nombre": "Unidad 4",
+                        "CTE": "Cienfuegos"
+                    },
+                    {
+                        "nombre": "Unidad 6",
+                        "CTE": "Renté"
+                    }
+                ]
+            }
+        },
+        "centr_gen_distr": {
+            "no_servicio": [
+                {
+                    "cantidad": 0,
+                    "razon": "",
+                    "mw_afectados": 0
+                }
+            ]
+        },
+        "pico": {
+            "estimacion": [
+                {
+                    "desc": "entrada de cuatro motores en la patana de Melones",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 65
+                },
+                {
+                    "desc": "entrada de motores de Generación Distribuida",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 20
+                }
+            ]
+        },
+        "max_afect_dia": {
+            "cantidad_mw": 945,
+            "hora": "18:30",
+            "desc": "no coincidiendo con la hora pico"
+        },
+        "dia_anterior": {
+            "desc": "déficit de capacidad de generación",
+            "horas": 11,
+            "hora_rest": "21:09"
+        }
+    }
+}

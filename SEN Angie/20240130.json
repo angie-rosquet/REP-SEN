@@ -1,0 +1,93 @@
+{
+    "sen_info": {
+        "main_info": {
+            "fecha": "30-01-2024",
+            "dia": "martes",
+            "url": "http://www.cubadebate.cu/noticias/2024/01/30/union-electrica-informa-afectacion-de-975-mw-en-el-horario-pico-nocturno/"
+        },
+        "estimacion": {
+            "horario": "pico",
+            "disponibilidad": 1975,
+            "demanda_max": 2880,
+            "deficit": 905,
+            "pronostico": {
+                "afectacion": 975
+            }
+        },
+        "info_horarios": {
+            "mañana": {
+                "disponibilidad": 1850,
+                "demanda": 1780,
+                "totalidad": true
+            },
+            "mediodia": {
+                "pronostico": {
+                    "afectacion": 450
+                }
+            }
+        },
+        "termoelectricas": {
+            "lim_gen_term": 437,
+            "fuera": {
+                "averias": [
+                    {
+                        "nombre": "Unidad 5",
+                        "CTE": "Nuevitas"
+                    },
+                    {
+                        "nombre": "Unidad 5",
+                        "CTE": "Rente"
+                    },
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Felton"
+                    }
+                ],
+                "mantenimiento":[
+                    {
+                        "nombre": "Unidad 8",
+                        "CTE": "Mariel"
+                    }
+                ]
+            }
+        },
+        "centr_gen_distr": {
+            "no_servicio": [
+                {
+                    "cantidad": 0,
+                    "razon": "",
+                    "mw_afectados": 0
+                }
+            ]
+        },
+        "pico": {
+            "estimacion": [
+                {
+                    "desc": "entrada de la unidad 5 de Energas Boca de Jaruco",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": "30"
+                },
+                {
+                    "desc": "unidad 5 de la CTE Rente",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": "60"
+                },
+                {
+                    "desc": "entrada de motores de Generación Distribuida",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": "35"
+                }
+            ]
+        },
+        "max_afect_dia": {
+            "cantidad_mw": 1111,
+            "hora": "18:40",
+            "desc": "coincidiendo con la hora pico"
+        },
+        "dia_anterior": {
+            "desc": "se afectó el servicio por déficit de capacidad de generación ",
+            "horas": 12.39,
+            "hora_rest": "22:54"
+        }
+    }
+}

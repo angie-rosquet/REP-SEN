@@ -1,0 +1,84 @@
+{
+    "sen_info": {
+        "main_info": {
+            "fecha": "29-01-2024",
+            "dia": "lunes",
+            "url": "http://www.cubadebate.cu/noticias/2024/01/29/pronostican-afectacion-de-991-mw-durante-el-horario-pico-nocturno-de-este-lunes/"
+        },
+        "estimacion": {
+            "horario": "pico",
+            "disponibilidad": 2129,
+            "demanda_max": 3050,
+            "deficit": "921",
+            "pronostico": {
+                "afectacion": 991
+            }
+        },
+        "info_horarios": {
+            "mañana": {
+                "disponibilidad": 0,
+                "demanda": 0,
+                "totalidad": true
+            },
+            "mediodia": {
+                "pronostico": {
+                    "afectacion": 0
+                }
+            }
+        },
+        "termoelectricas": {
+            "lim_gen_term": 437,
+            "fuera": {
+                "averias": [
+                    {
+                        "nombre": "Unidad 5",
+                        "CTE": "Nuevitas"
+                    },
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Felton"
+                    }
+                ],
+                "mantenimiento":[
+                    {
+                        "nombre": "Unidad 8",
+                        "CTE": "Mariel"
+                    }
+                ]
+            }
+        },
+        "centr_gen_distr": {
+            "no_servicio": [
+                {
+                    "cantidad": 0,
+                    "razon": "",
+                    "mw_afectados": 0
+                }
+            ]
+        },
+        "pico": {
+            "estimacion": [
+                {
+                    "desc": "entrada de la unidad 4 de Energas Varadero",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 44
+                },
+                {
+                    "desc": "entrada de motores de Generación Distribuida",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 44
+                }
+            ]
+        },
+        "max_afect_dia": {
+            "cantidad_mw": 975,
+            "hora": "18:30",
+            "desc": "coincidiendo con la hora pico"
+        },
+        "dia_anterior": {
+            "desc": "",
+            "horas": 0,
+            "hora_rest": ""
+        }
+    }
+}

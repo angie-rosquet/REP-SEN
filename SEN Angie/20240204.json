@@ -1,0 +1,101 @@
+{
+    "sen_info": {
+        "main_info": {
+            "fecha": "04-02-2024",
+            "dia": "domingo",
+            "url": "http://www.cubadebate.cu/noticias/2024/02/04/union-electrica-pronostica-un-deficit-de-940-mw-en-pico-nocturno/"
+        },
+        "estimacion": {
+            "horario": "pico",
+            "disponibilidad": 1935,
+            "demanda_max": 2800,
+            "deficit": 865,
+            "pronostico": {
+                "afectacion": 940
+            }
+        },
+        "info_horarios": {
+            "mañana": {
+                "disponibilidad": 1650,
+                "demanda": 1007,
+                "totalidad": false
+            },
+            "mediodia": {
+                "pronostico": {
+                    "afectacion": 400
+                }
+            }
+        },
+        "termoelectricas": {
+            "lim_gen_term": 292,
+            "fuera": {
+                "averias": [
+                    {
+                        "nombre": "Unidad 3",
+                        "CTE": "Santa Cruz"
+                    },
+                    {
+                        "nombre": "Unidad 6",
+                        "CTE": "Nuevitas"
+                    },
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Felton"
+                    },
+                    {
+                        "nombre": "Unidad 6",
+                        "CTE": "Renté"
+                    }
+                ],
+                "mantenimiento":[
+                    {
+                        "nombre": "Unidad 8",
+                        "CTE": "Mariel"
+                    },
+                    {
+                        "nombre": "Unidad 4",
+                        "CTE": "Cienfuegos"
+                    }
+                ]
+            }
+        },
+        "centr_gen_distr": {
+            "no_servicio": [
+                {
+                    "cantidad": 0,
+                    "razon": "",
+                    "mw_afectados": 0
+                }
+            ]
+        },
+        "pico": {
+            "estimacion": [
+                {
+                    "desc": "entrada de la entrada de 4 motores en la patana de Melones",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 65
+                },
+                {
+                    "desc": "entrada de motores de Generación Distribuida",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 25
+                },
+                {
+                    "desc": "entrada de la unidad 6 de Renté ",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 75
+                }
+            ]
+        },
+        "max_afect_dia": {
+            "cantidad_mw": 975,
+            "hora": "18:40",
+            "desc": "coincidiendo con la hora pico"
+        },
+        "dia_anterior": {
+            "desc": "déficit de capacidad de generación",
+            "horas": 13.28,
+            "hora_rest": "21:23"
+        }
+    }
+}

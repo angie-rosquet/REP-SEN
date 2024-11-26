@@ -1,0 +1,110 @@
+{
+    "sen_info": {
+        "main_info": {
+            "fecha": "03=02=2024",
+            "dia": "sábado",
+            "url": "http://www.cubadebate.cu/noticias/2024/02/03/union-electrica-preve-este-sabado-afectacion-de-800-mw-en-horario-pico-nocturno/"
+        },
+        "estimacion": {
+            "horario": "pico",
+            "disponibilidad": 1970,
+            "demanda_max": 2700,
+            "deficit": 730,
+            "pronostico": {
+                "afectacion": 800
+            }
+        },
+        "info_horarios": {
+            "mañana": {
+                "disponibilidad": 1690,
+                "demanda": 1580,
+                "totalidad": true
+            },
+            "mediodia": {
+                "pronostico": {
+                    "afectacion": 250
+                }
+            }
+        },
+        "termoelectricas": {
+            "lim_gen_term": 263,
+            "fuera": {
+                "averias": [
+                    {
+                        "nombre": "Unidad 6",
+                        "CTE": "Mariel"
+                    },
+                    {
+                        "nombre": "Unidad 3",
+                        "CTE": "Santa Cruz"
+                    },
+                    {
+                        "nombre": "Unidad 6",
+                        "CTE": "Diez de Octubre"
+                    },
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Felton"
+                    }
+                ],
+                "mantenimiento":[
+                    {
+                        "nombre": "Unidad 8",
+                        "CTE": "Mariel"
+                    },
+                    {
+                        "nombre": "Unidad 1",
+                        "CTE": "Santa Cruz"
+                    },
+                    {
+                        "nombre": "Unidad 4",
+                        "CTE": "Cienfuegos"
+                    }
+                ]
+            }
+        },
+        "centr_gen_distr": {
+            "no_servicio": [
+                {
+                    "cantidad": 0,
+                    "razon": "",
+                    "mw_afectados": 0
+                }
+            ]
+        },
+        "pico": {
+            "estimacion": [
+                {
+                    "desc": "unidad 1 de la CTE Santa Cruz",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 60
+                },
+                {
+                    "desc": "entrada de la unidad 6 de la CTE Mariel",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 100
+                },
+                {
+                    "desc": "entrada de 6 motores en la patana de Melones",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 90
+                },
+                {
+                    "desc": "entrada de motores de Generación Distribuida",
+                    "razon": "mantenimiento",
+                    "cantidad_mw": 30
+                }
+            ]
+        },
+        "max_afect_dia": {
+            "cantidad_mw": 608,
+            "hora": "18:30",
+            "desc": "coincidiendo con la hora pico"
+        },
+        "dia_anterior": {
+            "desc": "déficit de capacidad de generación",
+            "horas": 6.05,
+            "hora_rest": "20:00"
+        }
+    }
+}
